@@ -15,7 +15,7 @@
   - `초등학교 시절 청소당번을 정해놓는 관습`
 - 어딘가에 써놓으면 쉽게 잊혀지지도 않고 쉽게 찾을 수 있다.
   - 기억=메모리, 메모=데이터베이스
-  - `칠판에 깊이 새겨진 첫사랑 '김개똥❤김민주'`
+  - `칠판에 깊이 새겨진 첫사랑 '김개똥❤이기쁨'`
 - 어디에 어떻게 써놓는것이 좋을까?
   - 쓰기 쉬운곳
   - 찾기 쉬운곳
@@ -24,7 +24,7 @@
 ### 정보를 모아놓기에 적당한 것을 찾기 시작
 - 어딘가에 무언가를 기록하기 시작했다면
   - 그 이유는 바로 **정보를 관리**하기 위함
-  - `다이어리에 깊이 새겨진 첫사랑 '김개똥❤김민주'`
+  - `다이어리에 깊이 새겨진 첫사랑 '김개똥❤이기쁨'`
 - 어느날 아버지가 컴퓨터를 사오셨다.
   - 컴퓨터에는 파일이라는 개념이 들어있었음
     - 파일에는 컴퓨터와 사람이 알아볼 수 있는 정보가 기록되기 시작
@@ -148,8 +148,11 @@ DELETE FROM 테이블명
 > [데이터베이스 일반 > 실습자료 \| google docs](https://docs.google.com/spreadsheets/d/1bO6-mNnRzX3o3eNYntkYJVFuoVVYswR7xII0c7rECK0)
 
 ### 재밌다. 더 해보고 싶다.
-- 프로그래머스 SQL 문제 풀기
-  - https://programmers.co.kr/learn/challenges
+- [프로그래머스 SQL 문제 풀기](https://programmers.co.kr/learn/challenges)
+- 더 알고 싶다.
+  - [JOIN](https://ko.wikipedia.org/wiki/Join_(SQL))
+  - [그룹함수](https://www.google.com/search?q=sql+%EA%B7%B8%EB%A3%B9%ED%95%A8%EC%88%98)
+  - 정규화
 
 ## (3) NEXT
 > (예습하실 분 보세요.)
