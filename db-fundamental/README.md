@@ -145,7 +145,7 @@ DELETE FROM 테이블명
 - 삭제
   - 판매번호 7번에 대한 고객 환불이 필요하다.
 
-> [데이터베이스 일반 > 실습자료 | google docs](https://docs.google.com/spreadsheets/d/1bO6-mNnRzX3o3eNYntkYJVFuoVVYswR7xII0c7rECK0)
+> [데이터베이스 일반 > 실습자료 \| google docs](https://docs.google.com/spreadsheets/d/1bO6-mNnRzX3o3eNYntkYJVFuoVVYswR7xII0c7rECK0)
 
 ### 재밌다. 더 해보고 싶다.
 - 프로그래머스 SQL 문제 풀기
